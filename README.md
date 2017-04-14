@@ -1,2 +1,2 @@
 # codingame
-competitions
+for competitions code
